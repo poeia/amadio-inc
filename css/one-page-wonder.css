@@ -93,7 +93,18 @@ header.masthead .masthead-content .masthead-subheading {
     font-size: 4rem;
   }
 }
-
+a:active, .contact-link {
+	color:dodgerblue
+}
+a:hover, .contact-link {
+	color:dodgerblue
+}
+a:link, .contact-link {
+	color:dimgray
+}
+a:visited, .contact-link {
+	color:dimgray
+}
 .bg-primary {
   background-color: #0000FF !important;
 }
